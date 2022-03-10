@@ -1,4 +1,4 @@
-# Movie_App![movie_seat_booking]
+# Movie_App
 You can check my Movie App practice on the link.
  https://ercantekeli.github.io/Movie_App/
  
